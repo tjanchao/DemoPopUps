@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoPopUps</string>
+    <string name="txt_btn_simple_dialog">Open a simple dialog</string>
+    <string name="txt_btn_list_dialog">Choose your toppings</string>
+</resources>
